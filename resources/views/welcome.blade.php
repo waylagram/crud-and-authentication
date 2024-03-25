@@ -1,0 +1,1 @@
+<h1>Welcome to Laravel First Class</h1>
